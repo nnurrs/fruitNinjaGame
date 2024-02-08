@@ -1,5 +1,5 @@
 # Fruit Ninja Game  
-Aşağıda bir görüntüsü verilen, Qt-Creator kullanılarak geliştirilen Fruiit Ninja Game benzeri bir oyundur.  
+Aşağıda bir görüntüsü verilen, Qt-Creator kullanılarak geliştirilen Fruit Ninja Game benzeri bir oyundur.  
 Oyun 30 saniyedir. Oyundaki amaç bu süre zarfında olabildiğince karpuzu kesmektir.
 
 ![genelBakis](https://github.com/nnurrs/fruitNinjaGame/assets/96475696/065a3b3a-a878-4779-8db7-61d098c6b7e0)  
